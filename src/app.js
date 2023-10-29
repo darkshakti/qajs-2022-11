@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /**
  * Проверка имени пользователя
  * @param {string} name

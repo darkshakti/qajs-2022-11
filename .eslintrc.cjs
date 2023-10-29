@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
   plugins: ["jest", "prettier"],

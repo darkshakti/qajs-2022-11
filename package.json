@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OTUS-QA-JS/qajs-2022-11.git"
+    "url": "git+https://github.com/darkshakti/qajs-2022-11.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OTUS-QA-JS/qajs-2022-11/issues"
+    "url": "https://github.com/darkshakti/qajs-2022-11/issues"
   },
-  "homepage": "https://github.com/OTUS-QA-JS/qajs-2022-11#readme",
+  "homepage": "https://github.com/darkshakti/qajs-2022-11#readme",
   "devDependencies": {
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.22.20",
